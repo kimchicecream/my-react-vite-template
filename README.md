@@ -23,6 +23,8 @@ After installation has completed, you can then start the app by running the foll
 npm run dev
 ```
 
+Open your browser and see what your current webpage looks like!
+
 ## Make it your own
 
 Assuming you want to make this repo your own and add personal touches or rename certain things to match the style of the project you are working on, you should entertain the following steps to accomplish this.
