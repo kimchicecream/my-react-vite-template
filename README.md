@@ -34,3 +34,4 @@ Secondly, navigate to **index.html**. This file should also be in your root dire
 Lastly, navigate to the **package.json** file in the root directory. The first key named `"name"` has a value of `"my-react-vite-template"`. Change this value to whatever you want that fits your project.
 
 You have now customized the project to fit your own project needs.
+# my-react-vite-template
